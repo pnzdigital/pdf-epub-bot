@@ -38,6 +38,10 @@
 - [ ] Teste com Lua (1000 créditos)
 - [ ] Stripe stub (preparado, não integrar ainda)
 
+## Git
+- Repo: https://github.com/pnzdigital/pdf-epub-bot
+- Bare: /bots/Projects/pdf-epub-bot.git
+
 ## Arquivos (completos)
 - `bot/app.py` (FastAPI health + Telegram handlers)
 - `bot/db.py` (SQLite schema + CRUD)
