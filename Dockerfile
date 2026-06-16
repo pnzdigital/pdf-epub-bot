@@ -15,7 +15,7 @@ RUN pip install --no-cache-dir \
     python-telegram-bot==20.8 \
     pymupdf==1.25.2 \
     openai==1.52.0 \
-    httpx==0.27.2 \
+    httpx==0.26.0 \
     Pillow==10.4.0 \
     python-dotenv==1.0.1 \
     pydantic==2.9.0
